@@ -1,5 +1,4 @@
-for full version please visit: 
-https://sourceforge.net/projects/predict-of-protein-interactins/files/
+
 
 
 # Final_thesis
@@ -31,10 +30,14 @@ fourth : RUN server scripts for train and test , THe access to GRH-CRF server is
 
 fifth : Run the 4Prediction_Result.py to see the results for each data set 
 	The already calculated results are available at forlder /Prediction_Result
+	
+	
+this is also available at : 
+https://sourceforge.net/projects/predict-of-protein-interactins/files/	
 
 Good Luck
 Saeideh Nazeri 
-for any question feel free to contact by : saeideh.nazeri@studio.unibo.it
+for any question feel free to contact by : hengameh.nazeri@gmail.com
 
 
 
