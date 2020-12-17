@@ -1,3 +1,7 @@
+for full version please visit: 
+https://sourceforge.net/projects/predict-of-protein-interactins/files/
+
+
 # Final_thesis
 PREDICTION OF PROTEINPROTEIN INTERACTION SITES WITH A NEW PROBABILISTIC METHOD
 presentation file in directory: presentation_saeideh_nazeri.pdf
